@@ -4,7 +4,7 @@
 
 - HTML kullanarak hazırladığım ikinci web sayfası denememdir.
 - Görsel;
-    
+    ![WebSayfasiDetaylandirmaHTML](ikinciWebSayfas%C4%B1HTMLPatika.png)
 
 
 ### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24) 
