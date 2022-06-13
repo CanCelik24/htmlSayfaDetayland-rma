@@ -7,6 +7,5 @@
     ![WebSayfasiDetaylandirmaHTML1](ikinciWebSayfas%C4%B1HTMLPatika.png)
 
 ### [Patika.dev Profilim](https://app.patika.dev/canncelik)
-### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24) 
-#### https://www.hackerrank.com/ogulcan_celik24
-#### www.patika.dev
+### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24)
+#### [www.patika.dev](https://app.patika.dev/)
